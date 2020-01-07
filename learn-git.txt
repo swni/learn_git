@@ -3,3 +3,5 @@
 3.third line.
 4.fourth line.
 5.add line at 2020-01-07 19:17:55.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
